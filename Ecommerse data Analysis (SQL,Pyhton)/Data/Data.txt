@@ -1,0 +1,8 @@
+The data.7z contains 7 files.
+customer.csv
+geolocation.csv
+order_items.csv
+orders.csv
+payment.csv
+products.csv
+sellers.csv
